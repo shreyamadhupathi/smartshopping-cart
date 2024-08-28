@@ -10,22 +10,34 @@ One of the best functionality that the projects include is mailing the customers
 
 Note: The payment page is created only for demo purpose and its not fully integrated with any payment gateway. So for now any credit card details will be accepted and the demo orders will be placed.
 
+
+
+
+
 Highlights :--
+
+
+
 The users will get a mail to their registered mail Id during:-
 New User Registration
 Order Successfully Placed
 The Item was out of stock while exploring but now it got available in the store
 Successful shipment and delivery of the Item
+
+
 Technologies used:-
+
 Front-End Development:
 HTML
 CSS
 Javascript
 BootStrap
+
 Back-End Development:
 Java [JDK 8+]
 JDBC
 Servlet
 JSP
+
 Database:
 MySql
