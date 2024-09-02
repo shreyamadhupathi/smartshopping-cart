@@ -99,22 +99,14 @@ Step 9:  [To Change the Port, if getting error like 'port already in use'] Open 
 
 Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
 
-Step 11: The default Username And Password For User Is "guest@gmail.com" And "guest"
-
-## FAQ
-**Question:1** Unable to Connect to Database?
-
-**Answer:** Please check you have installed the mysql correctly and have updated the correct db details in application.properties file. Also you can try doing maven clean install and force update the project and restart.
-<hr>
-
-Note:- This is a Sample Project for learning purpose, we have not much considered of web security.
+Step 11: The default Username And Password For User Is "guest@gmail.com" And "gues
 
 
 
 
 
 - Class Diagram
-<img width="589" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
+<img width="589" alt="image" src="https://github.com/shreyamadhupathi/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
 
 
 
