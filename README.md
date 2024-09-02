@@ -53,7 +53,7 @@ STEP 2: Login to the administrator user of MySql:
 	 ```mysql -u <username> -p``` (Enter Password if asked)
 
 STEP 3: Copy paste and execute the MySQL Query from the following file:-
-- Run the Sql Query From this file: [databases/mysql_query.sql](./databases/mysql_query.sql)
+- Run the Sql Query From this file: "C:\Users\USER\Downloads\mysql_query.sql"
 
 ### ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
 Step 1: Create a gmail account or login to existing account in any browser
@@ -62,7 +62,7 @@ Step 2 : Go to [https://myaccount.google.com/security](https://myaccount.google.
 
 Step 3: Go to [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) and enter password if asked
 
-Step 4: In Select an App Section: select Other (custom name) => enter "Ellison Electronics" => Generate
+Step 4: In Select an App Section: select Other (custom name) => enter "Shopsmart Systems" => Generate
 
 Step 5: After that it will generate 16 digits app password which you need to copy and save for future configurations.
 
@@ -72,7 +72,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 Step 1: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/shashirajraja/shopping-cart.git```> Select master Branch > Next > Next > Finish.
+Step 2: Click On File > Import > Git > Projects From Git > Clone Url > Paste The Repository Url as: ```  ```> Select master Branch > Next > Next > Finish.
 
 Step 3: Go inside ```Java Resources > src > application.properties``` and update the values as below:
 - a) Update value for db.username and db.password according to your installed mysql credentials.
