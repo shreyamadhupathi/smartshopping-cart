@@ -106,9 +106,7 @@ Step 11: The default Username And Password For User Is "guest@gmail.com" And "gu
 
 
 - Class Diagram
-<img width="589" alt="image" src="https://github.com/shashiraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
-
-
+<img width="589" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
