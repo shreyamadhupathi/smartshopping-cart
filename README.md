@@ -109,6 +109,6 @@ Step 11: The default Username And Password For User Is "guest@gmail.com" And "gu
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Shreya Madhupathi</b>
 
 
